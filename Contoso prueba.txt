@@ -1,6 +1,6 @@
 {
   "AadClientId": "37ca4a0e-7a2a-4bae-a305-174890cf9b36",
   "AadSecret": "27a889fe-fe27-4776-864a-4ea048f2a785",
-  "AadTenantDomain": "cerfgroup.onmicrosoft.com",
+  "AadTenantDomain": "cerfgroup.com",
   "AadTenantId": "8b87ca16-9e1b-4519-a425-4bc089cb79f8",
 }
